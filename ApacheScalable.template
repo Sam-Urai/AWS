@@ -13,7 +13,6 @@
         },
         "z": 0,
         "embeds": [
-          "c26e4a63-4035-432b-9e60-6e4b740e5756",
           "6991389a-d7fe-4ca9-9f22-ddd2a99b518a",
           "806e5b53-73f0-401b-8ae7-ced2739045c9",
           "11767be8-6450-4548-a35d-765973bedc10",
@@ -351,19 +350,6 @@
           "id": "11767be8-6450-4548-a35d-765973bedc10"
         },
         "z": 11
-      },
-      "c26e4a63-4035-432b-9e60-6e4b740e5756": {
-        "size": {
-          "width": 60,
-          "height": 60
-        },
-        "position": {
-          "x": 642.7647699993124,
-          "y": 262.61297044236306
-        },
-        "z": 1,
-        "parent": "2d875b7e-7b96-4e6f-a6db-28722ffdd907",
-        "embeds": []
       }
     }
   },
@@ -710,15 +696,6 @@
       "Metadata": {
         "AWS::CloudFormation::Designer": {
           "id": "6991389a-d7fe-4ca9-9f22-ddd2a99b518a"
-        }
-      }
-    },
-    "ASSP1KRP2": {
-      "Type": "AWS::AutoScaling::ScalingPolicy",
-      "Properties": {},
-      "Metadata": {
-        "AWS::CloudFormation::Designer": {
-          "id": "c26e4a63-4035-432b-9e60-6e4b740e5756"
         }
       }
     }
