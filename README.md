@@ -1,2 +1,2 @@
 # AWS
-Cloudformation templates for a test task
+CloudFormation templates for a test task
